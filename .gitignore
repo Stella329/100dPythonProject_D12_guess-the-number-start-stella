@@ -1,0 +1,6 @@
+# Replit configuration files
+*.replit
+.nix
+
+# environment
+.venv
